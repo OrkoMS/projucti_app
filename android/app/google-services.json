@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207285496277",
+    "project_id": "projucti-74417",
+    "storage_bucket": "projucti-74417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207285496277:android:198136fda83bec21ca355c",
+        "android_client_info": {
+          "package_name": "com.orko.projucti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207285496277-oamhpu878u2h9e3j8ppt5b97ou04lg35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orko.projucti_app",
+            "certificate_hash": "a994bb6c324a4dd35d09006e4f30e19929a1cc99"
+          }
+        },
+        {
+          "client_id": "207285496277-ucadmvpchfabo25t85p84pan60vr42s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkHY6ZvbHTb_tMDCaB_Mk0lVFaGp9yIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207285496277-ucadmvpchfabo25t85p84pan60vr42s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
